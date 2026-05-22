@@ -1,16 +1,19 @@
-## Hi there 👋
+# 📊 CHÀO MỪNG BẠN ĐẾN VỚI KHÔNG GIAN CỦA TÔI!
 
-<!--
-**nnhimunmeu-star/nnhimunmeu-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tôi là một sinh viên năm nhất đầy nhiệt huyết, đang theo học ngành **Logistics và Quản lý Chuỗi cung ứng**. Với tư duy thích làm việc với dữ liệu và công nghệ, tôi tin rằng mọi quy trình đều có thể được tối ưu hóa một cách thông minh.
 
-Here are some ideas to get you started:
+## 🚀 Dự Án CV Tương Tác (Dynamic CV)
+Thay vì một bản CV truyền thống bằng giấy, tôi đã tự tay xây dựng một hệ thống phân tích dữ liệu nhỏ để trực quan hóa năng lực, thời gian học tập và các dự án của bản thân.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hãy bấm vào nút màu xanh bên dưới để "chạy" và tương tác trực tiếp với CV của tôi trên Google Colab:**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([THAY_LINK_COLAB_CỦA_NÀNG_VÀO_ĐÂY](https://colab.research.google.com/drive/12J35IeuQUZIbAhrHusNbjD6fSoRlbpTA?usp=sharing))
+
+---
+
+## 🛠️ Kỹ năng đang phát triển:
+- **Tư duy:** Giải quyết vấn đề, Làm việc nhóm, Design Thinking.
+- **Công cụ:** Phân tích dữ liệu cơ bản với Python (Pandas, Plotly), Google Colab.
+- **Ngoại ngữ:** Đang không ngừng trau dồi để nâng cao năng lực tiếng Anh.
+
+*Rất vui được kết nối và học hỏi cùng bạn!*
