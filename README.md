@@ -7,7 +7,7 @@ Thay vì một bản CV truyền thống bằng giấy, tôi đã tự tay xây 
 
 **Hãy bấm vào nút màu xanh bên dưới để "chạy" và tương tác trực tiếp với CV của tôi trên Google Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([THAY_LINK_COLAB_CỦA_NÀNG_VÀO_ĐÂY](https://colab.research.google.com/drive/12J35IeuQUZIbAhrHusNbjD6fSoRlbpTA?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/12J35IeuQUZIbAhrHusNbjD6fSoRlbpTA?usp=sharing])
 
 ---
 
